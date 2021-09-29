@@ -1,11 +1,15 @@
 Project Name: E-Libary Management System
+
 Tools Used : BootStrap,Asp.net,Sql Server
+
 Contributors:
   1. Rahul Jha
   2. Raunak Mishra
   3. Aditya Dixit
 
-Description: This project is made as a part of our Academic work. We have made this project for our subject named as PS V:ASP.NET.
+Description: 
+This project is made as a part of our Academic work. We have made this project for our subject named as PS V:ASP.NET.
+
 Features: 
   1. Admin Panel
     1. Admin Login
@@ -14,6 +18,7 @@ Features:
     4. Admin Member Management
     5. Admin Book Issuing
     6. Admin Book Inventory
+ 
  2. User Panel
     1. Member Signup
     2. Member Login
