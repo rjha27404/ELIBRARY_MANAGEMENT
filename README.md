@@ -1,4 +1,4 @@
-Project Name: E-Libary Management System
+Project Name: E-Library Management System
 
 Tools Used : BootStrap,Asp.net,Sql Server
 
