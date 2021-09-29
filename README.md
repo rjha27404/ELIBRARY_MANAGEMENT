@@ -12,6 +12,7 @@ This project is made as a part of our Academic work. We have made this project f
 
 Features: 
   1. Admin Panel
+  
     i. Admin Login
     ii. Admin Author management
     iii. Admin Publisher Management
