@@ -12,12 +12,12 @@ This project is made as a part of our Academic work. We have made this project f
 
 Features: 
   1. Admin Panel
-    1. Admin Login
-    2. Admin Author management
-    3. Admin Publisher Management
-    4. Admin Member Management
-    5. Admin Book Issuing
-    6. Admin Book Inventory
+    i. Admin Login
+    ii. Admin Author management
+    iii. Admin Publisher Management
+    iv. Admin Member Management
+    v. Admin Book Issuing
+    vi. Admin Book Inventory
  
  2. User Panel
     1. Member Signup
