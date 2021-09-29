@@ -7,7 +7,7 @@ Contributors:
 
 Description: This project is made as a part of our Academic work. We have made this project for our subject named as PS V:ASP.NET.
 Features: 
-  1. Admin Panel:
+  1. Admin Panel
     1. Admin Login
     2. Admin Author management
     3. Admin Publisher Management
