@@ -14,8 +14,8 @@ Features:
     5. Admin Book Issuing
     6. Admin Book Inventory
  2. User Panel
-   1. Member Signup
-   2. Member Login
-   3. User Profile Page
-   4. View Books
+    1. Member Signup
+    2. Member Login
+    3. User Profile Page
+    4. View Books
   
